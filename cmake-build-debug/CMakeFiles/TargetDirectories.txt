@@ -1,0 +1,3 @@
+/Users/kiklas/CLionProjects/ougithub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kiklas/CLionProjects/ougithub/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kiklas/CLionProjects/ougithub/cmake-build-debug/CMakeFiles/ougithub.dir
